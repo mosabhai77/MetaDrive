@@ -18,6 +18,13 @@ npm install hardhat --save-dev hardhat@2.12.4
 
 2. The terminal prompts you to install some extra dependencies along with their repective commands, so they must be installed too.
 
+3. Run hardhat
+
+```
+npx hardhat
+```
+4. Create a JAVASCRIPT project.
+
 # Installing React
 
 ```
