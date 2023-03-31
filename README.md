@@ -28,8 +28,9 @@ npx hardhat
 # Installing React
 
 ```
-npm install create-react-app client
-```
+npm install create-react-app
+npx create-react-app
+``
 
 To run the app.js file of react on your local host type the following cmds.
 
