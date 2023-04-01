@@ -6,7 +6,6 @@ import Display from "./components/Display";
 import Modal from "./components/Modal";
 import "./App.css";
 
-
 function App() {
   const [account, setAccount] = useState("");
   const [contract, setContract] = useState(null);
